@@ -28,7 +28,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/bishaljha"
+              href="https://github.com/Bishh-ui"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -36,7 +36,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/bishaljha"
+              href="https://www.linkedin.com/in/bishal-kumar-jha-bb384933a/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -52,7 +52,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/bishaljha"
+              href="https://www.instagram.com/b.i.s.h.a.l0"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
